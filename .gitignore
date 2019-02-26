@@ -17,6 +17,7 @@
 /npm-debug.log*
 /testem.log
 /yarn-error.log
+/config/crowdin.js
 
 # ember-try
 /.node_modules.ember-try/

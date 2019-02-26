@@ -14,5 +14,15 @@ module.exports = {
     browser: false,
     node: true
   },
-  rules: {}
+  rules: {},
+  overrides: [
+    {
+      files: ['node-tests/**/*-test.js'],
+      env: {
+        browser: false,
+        node: true,
+        mocha: true
+      }
+    }
+  ]
 };
