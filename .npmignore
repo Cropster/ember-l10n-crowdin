@@ -20,3 +20,4 @@
 /node-tests/
 /yarn.lock
 .gitkeep
+/.idea
