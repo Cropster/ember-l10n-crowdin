@@ -3,6 +3,10 @@ ember-l10n-crowdin
 
 Manage translations files from ember-l10n with Crowdin.
 
+[![Build Status](https://travis-ci.org/Cropster/ember-l10n-crowdin.svg?branch=master)](https://travis-ci.org/Cropster/ember-l10n-crowdin)
+[![Ember Observer Score](https://emberobserver.com/badges/ember-l10n-crowdin.svg)](https://emberobserver.com/addons/ember-l10n-crowdin)
+[![npm version](https://badge.fury.io/js/ember-l10n-crowdin.svg)](https://badge.fury.io/js/ember-l10n-crowdin)
+
 
 Compatibility
 ------------------------------------------------------------------------------
