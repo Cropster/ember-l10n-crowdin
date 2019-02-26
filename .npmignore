@@ -15,9 +15,11 @@
 /.travis.yml
 /.watchmanconfig
 /translations
-/config/crowdin.js
+/config
 /CONTRIBUTING.md
 /node-tests/
 /yarn.lock
 .gitkeep
 /.idea
+/.yarnrc
+/.npmrc
